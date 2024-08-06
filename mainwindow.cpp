@@ -8,7 +8,7 @@
 #include <QInputDialog>
 #include <QComboBox>
 #include <QTimer>
-#include <QIcon>  // QIcon sınıfını dahil ediyoruz
+#include <QIcon>  
 
 /**
  * @brief MainWindow yapıcı fonksiyonu
